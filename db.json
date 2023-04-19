@@ -5,28 +5,10 @@
       "id": 1000
     },
     {
-      "name": "Mrs. Nina Adams",
-      "id": 2000
-    },
-    {
       "name": "Geraldine Kirlin",
       "id": 3000
-    },
-    {
-      "name": "Enrique Pacocha",
-      "id": 4000
-    },
-    {
-      "name": "Ben Deckow DDS",
-      "id": 4001
     }
   ],
-  "albums": [
-    {
-      "userId": 1000,
-      "title": "Bernice",
-      "id": 1
-    }
-  ],
-  "photos": [  ]
+  "albums": [ ],
+  "photos": [ ]
 }
